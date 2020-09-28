@@ -4,7 +4,7 @@ import argparse
 import configparser
 import os
 from lib import TwitterModule
-from lib import ManipulaExcecoes
+from lib import HandleExceptions
 from tweepy import error
 import sys
 
